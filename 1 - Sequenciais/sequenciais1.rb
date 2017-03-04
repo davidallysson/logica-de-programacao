@@ -1,5 +1,3 @@
-#Escreva um programa que leia um número real e faça o arredondamento para inteiro. Se a parte fracionária for maior do que 0.5 o arredondamento deve ser feito para o próximo inteiro.
+#Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
-puts "Digite um número fracionado: "
-numero = gets.to_f
-puts "#{numero.round}"
+puts "Alo mundo"
