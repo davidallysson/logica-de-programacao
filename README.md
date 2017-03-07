@@ -137,9 +137,9 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 5 - Dadas as matrizes:
 
      |  1  2  3  |     | -7 -8  9  |     |  2  3 -4  |
- A = | -4  5  6  | B = | 12  6  5  | C = |  6  7  1  |
+     | -4  5  6  |     | 12  6  5  |     |  6  7  1  |
      |  4  6  8  |     |  8  7  4  |     |  2  8  7  |
-
+           A                 B                 C
 determine a matriz D resultante da operação A + B – C.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/4%20-%20Vetores/vetores5.rb)
