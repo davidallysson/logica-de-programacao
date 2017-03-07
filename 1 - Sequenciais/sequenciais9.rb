@@ -4,4 +4,4 @@
 puts "Digite uma temperatura, em Farenheit: "
 farenheit = gets.to_f
 celsius = (5 * (farenheit - 32)) / 9
-puts "A temperatura, em Celsius, é de: #{celsius}"
+puts "A temperatura, em Celsius, é de: #{celsius}°C"

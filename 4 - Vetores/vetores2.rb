@@ -1,28 +1,37 @@
-# Escreva um programa que leia uma matriz N x M, e imprima a sua transposta.
+#Escreva um programa que leia uma matriz de inteiros 5 x 5, e mostre a linha cuja a soma dos números é a maior.
 
 matriz = []
-transposta = []
+soma_linha = []
 
-puts "Digite a quantidade de linhas da matriz: "
-linhas = gets.to_i
-
-linhas.times do
+5.times do
     matriz << []
-    transposta << []
 end
 
-for l in 0..matriz.size - 1 do
-	for c in 0..matriz.size - 1 do
-		matriz[l][c] = gets.to_i
-	end
+#Ler matriz 5x5
+for i in 0..matriz.size - 1 do
+  for j in 0..matriz.size - 1 do
+    matriz[i][j] = gets.to_i
+  end
 end
 
-print "#{matriz}\n\n"
-
-for l in 0..matriz.size - 1 do
-	for c in 0..matriz.size - 1 do
-		transposta[c][l] = matriz[l][c]
-	end
+#Somar todas as linhas
+for i in 0..matriz.size - 1 do
+  soma_linha[i] = 0
+  for j in 0..matriz.size - 1 do
+    soma_linha[i] += matriz[i][j]
+  end
 end
 
-print "#{transposta}"
+#Descobrir a maior linha
+indiceDoMaior = 0
+for i in 1..soma_linha.size - 1 do
+  if(soma_linha[i] > soma_linha[indiceDoMaior])
+    indiceDoMaior = i
+  end
+end
+
+#Exibir a maior linha
+for i in 0..matriz.size - 1 do
+  print "#{matriz[indiceDoMaior][i]} "
+end
+print "\n"

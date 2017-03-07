@@ -1,30 +1,28 @@
-#Escreva um programa que leia uma matriz N x M de strings, e mostre a posição com a string
-#de maior tamanho.
+# Escreva um programa que leia uma matriz N x M, e imprima a sua transposta.
 
 matriz = []
+transposta = []
 
-puts "Digite quantas linhas a matriz terá: "
+puts "Digite a quantidade de linhas da matriz: "
 linhas = gets.to_i
 
-puts "Digite quantas colunas a matriz terá: "
-colunas = gets.to_i
-
-for i in 0..linhas - 1 do
-  matriz << []
-  for j in 0..colunas - 1 do
-    matriz[i][j] = gets.chomp
-  end
+linhas.times do
+    matriz << []
+    transposta << []
 end
 
-linhaDaMaior = 0
-colunaDaMaior = 0
-for i in 0..linhas - 1 do
-  for j in 0..colunas - 1 do
-    if(matriz[i][j].size > matriz[linhaDaMaior][colunaDaMaior].size)
-      linhaMaiorString = i
-      colunaMaiorString = j
-    end
-  end
+for l in 0..matriz.size - 1 do
+	for c in 0..matriz.size - 1 do
+		matriz[l][c] = gets.to_i
+	end
 end
 
-puts matriz[linhaMaiorString][colunaMaiorString]
+print "#{matriz}\n\n"
+
+for l in 0..matriz.size - 1 do
+	for c in 0..matriz.size - 1 do
+		transposta[c][l] = matriz[l][c]
+	end
+end
+
+print "#{transposta}"

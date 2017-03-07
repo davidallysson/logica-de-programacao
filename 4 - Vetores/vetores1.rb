@@ -1,38 +1,28 @@
-#Escreva um programa que leia uma matriz de inteiros 5 x 5, e mostre a linha que tem cuja a
-#soma dos números é a maior.
+#Escreva um programa que leia 30 números e armazene-os em um array. Depois leia
+#mais um número inteiro, que deve corresponder a um índice do array, e troque o
+#primeiro elemento com o elemento do índice lido. Caso o índice não seja válido
+#o programa deve trocar o primeiro com o último elemento. Ao final o programa
+#deve mostrar os elementos do array, um elemento por linha.
 
-matriz = []
-soma_linha = []
+aux = 0
+puts "Digite 5 números: "
+numeros = 5.times.map do gets.to_i end
 
-5.times do
-    matriz << []
+print "#{numeros} \n"
+
+puts "Digite o indice a ser trocado: "
+indice = gets.to_i
+
+if(indice > 0 and indice < numeros.size) then
+	#valido
+	aux = numeros[0]
+	numeros[0] = numeros[indice]
+	numeros[indice] = aux
+else
+	#invalido
+	aux = numeros[0]
+	numeros[0] = numeros[numeros.size - 1]
+	numeros[numeros.size - 1] = aux
 end
 
-#Ler matriz 5x5
-for i in 0..matriz.size - 1 do
-  for j in 0..matriz.size - 1 do
-    matriz[i][j] = gets.to_i
-  end
-end
-
-#Somar todas as linhas
-for i in 0..matriz.size - 1 do
-  soma_linha[i] = 0
-  for j in 0..matriz.size - 1 do
-    soma_linha[i] += matriz[i][j]
-  end
-end
-
-#Descobrir a maior linha
-indiceDoMaior = 0
-for i in 1..soma_linha.size - 1 do
-  if(soma_linha[i] > soma_linha[indiceDoMaior])
-    indiceDoMaior = i
-  end
-end
-
-#Exibir a maior linha
-for i in 0..matriz.size - 1 do
-  print "#{matriz[indiceDoMaior][i]} "
-end
-print "\n"
+print "#{numeros}"

@@ -1,21 +1,30 @@
-#Dadas as matrizes:
-#
-#     |  1  2  3  |     | -7 -8  9  |     |  2  3 -4  |
-# A = | -4  5  6  | B = | 12  6  5  | C = |  6  7  1  |
-#     |  4  6  8  |     |  8  7  4  |     |  2  8  7  |
-#
-#determine a matriz D resultante da operação A + B – C.
+#Escreva um programa que leia uma matriz N x M de strings, e mostre a posição com a string
+#de maior tamanho.
 
-a = [ [1, 2, 3], [-4, 5, 6], [4, 6, 8] ]
-b = [ [-7, -8, 9], [12, 6, 5], [8, 7, 4] ]
-c = [ [2, 3, -4], [6, 7, 1], [2, 8, 7] ]
-d = []
+matriz = []
 
-for i in 0..a.size - 1 do
-  d << []
-  for j in 0..a.size - 1 do
-    d[i][j] = a[i][j] + b[i][j] - c[i][j]
+puts "Digite quantas linhas a matriz terá: "
+linhas = gets.to_i
+
+puts "Digite quantas colunas a matriz terá: "
+colunas = gets.to_i
+
+for i in 0..linhas - 1 do
+  matriz << []
+  for j in 0..colunas - 1 do
+    matriz[i][j] = gets.chomp
   end
 end
 
-print "#{d}"
+linhaDaMaior = 0
+colunaDaMaior = 0
+for i in 0..linhas - 1 do
+  for j in 0..colunas - 1 do
+    if(matriz[i][j].size > matriz[linhaDaMaior][colunaDaMaior].size)
+      linhaMaiorString = i
+      colunaMaiorString = j
+    end
+  end
+end
+
+puts matriz[linhaMaiorString][colunaMaiorString]
