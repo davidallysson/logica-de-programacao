@@ -113,8 +113,13 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes13.rb)
 
-
 ### Laços
+
+1 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
+
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos1.rb)
+
+2 -
 
 ### Vetores
 
