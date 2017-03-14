@@ -2,7 +2,7 @@
 
 Repositório contendo exercícios resolvidos de lógica de programação em diversas linguagens.
 
-### Sequenciais
+## Sequenciais
 
 1 - Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
@@ -59,7 +59,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais13.rb)
 
-### Condicionais
+## Condicionais
 
 1 - Escreva um programa que leia um número e mostre se ele é igual a 10.
 
@@ -113,15 +113,33 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes13.rb)
 
-### Laços
+## Laços
 
 1 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos1.rb)
 
-2 -
+2 - Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
 
-### Vetores
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos2.rb)
+
+3 - Faça um programa que leia 5 números e informe o maior número.
+
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos3.rb)
+
+4 - Faça um programa que leia 5 números e informe a soma e a média dos números.
+
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos4.rb)
+
+5 - Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos5.rb)
+
+6 - Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada.
+
+[Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos6.rb)
+
+## Vetores
 
 1 - Escreva um programa que leia 30 números e armazene-os em um array. Depois leia mais um número inteiro, que deve corresponder a um índice do array, e troque o primeiro elemento com o elemento do índice lido. Caso o índice não seja válido o programa deve trocar o primeiro com o último elemento. Ao final o programa deve mostrar os elementos do array, um elemento por linha.
 
@@ -153,7 +171,7 @@ determine a matriz D resultante da operação A + B – C.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/4%20-%20Vetores/vetores6.rb)
 
-### Funções
+## Funções
 
 1 - Escreva uma função, chamada maior2, que retorna o maior de dois números
 
@@ -187,7 +205,7 @@ determine a matriz D resultante da operação A + B – C.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/5%20-%20Fun%C3%A7%C3%B5es/funcoes08.rb)
 
-### Recursividade
+## Recursividade
 
 1 - Escreva uma função recursiva que realize a operação de divisão.
 
