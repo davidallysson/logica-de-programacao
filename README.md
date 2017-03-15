@@ -7,6 +7,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 1 - Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.rb)
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.c)
 
 2 - Faça um programa que peça um número e então mostre a mensagem: "O número informado foi {numero}."
 
