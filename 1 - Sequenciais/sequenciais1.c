@@ -2,8 +2,8 @@
 
 #include "stdio.h"
 
-main()
+int main()
 {
-  printf("Alo mundo\n");
+  printf("Alo mundo");
   return 0;
 }
