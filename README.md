@@ -10,9 +10,13 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
   - Instale o gcc normalmente no seu computador.
   - Caminhe até a pasta onde o arquivo .c está localizado.
   - Ao chegar na pasta, compile o código da questão:
-  $ gcc -o teste arquivo.c
+
+      $ gcc -o teste arquivo.c
+
   - Feito isso é só executar:
-  $ teste
+
+      $ teste
+
   - ps: o nome "teste" pode ser alterado para qualquer nome.
 
 2. Em Java:
@@ -24,23 +28,33 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
     - O nome da variável será "JAVA_HOME" e o seu valor será o caminho até o JDK instalado. Ex: “C:/Arquivos de programas/Java/jdk1.5.0_05”.
     - Clique em OK e crie novamente outra variável de ambiente.
     - Nomeei ela com "CLASSPATH" e adicione este valor: (se houver algo no CLASSPATH coloque ';' e adicione este conteúdo após o sinal).
-    $;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
+
+        $;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
+
     - Clique em OK e depois procure por "PATH" nas variáveis de ambiente e clique em "Editar".
     - Adicione este conteúdo à variável:
-    $ ;%JAVA_HOME%\bin
+
+        $ ;%JAVA_HOME%\bin
+
     - Clique em OK e feche todas as janelas.
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Ao chegar na pasta digite:
-  $ javac arquivo.java
+
+        $ javac arquivo.java
+
   - Feito isso é só executar:
-  $ java arquivo
+
+        $ java arquivo
+
 
 3. Em Ruby:
 
   - Instale o Ruby no seu computador. (https://rubyinstaller.org/downloads/)
   - Caminhe até a pasta onde o código se encontra.
   - Execute o seguinte comando:
-  $ ruby arquivo.ruby
+
+        $ ruby arquivo.ruby
+  
 
 ## Sequenciais
 
