@@ -19,6 +19,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 
   - ps: o nome "teste" pode ser alterado para qualquer nome.
 
+
 2. Em Java:
 
   - Instale o JDK e o JRE no seu computador. (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
@@ -28,8 +29,9 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
     - O nome da variável será "JAVA_HOME" e o seu valor será o caminho até o JDK instalado. Ex: “C:/Arquivos de programas/Java/jdk1.5.0_05”.
     - Clique em OK e crie novamente outra variável de ambiente.
     - Nomeei ela com "CLASSPATH" e adicione este valor: (se houver algo no CLASSPATH coloque ';' e adicione este conteúdo após o sinal).
-
-        $ ;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
+    ```
+    ;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
+    ```
 
     - Clique em OK e depois procure por "PATH" nas variáveis de ambiente e clique em "Editar".
     - Adicione este conteúdo à variável:
@@ -45,6 +47,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
   - Feito isso é só executar:
 
         $ java arquivo
+
 
 
 3. Em Ruby:
