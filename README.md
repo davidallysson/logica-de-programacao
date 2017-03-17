@@ -10,6 +10,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
   - Instale o gcc normalmente no seu computador.
   - Caminhe até a pasta onde o arquivo .c está localizado.
   - Ao chegar na pasta, compile o código da questão:
+  
       ```
       $ gcc -o teste arquivo.c
       ```
