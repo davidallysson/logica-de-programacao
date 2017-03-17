@@ -29,7 +29,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
     - Clique em OK e crie novamente outra variável de ambiente.
     - Nomeei ela com "CLASSPATH" e adicione este valor: (se houver algo no CLASSPATH coloque ';' e adicione este conteúdo após o sinal).
 
-        `$;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;`
+        $ ;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
 
     - Clique em OK e depois procure por "PATH" nas variáveis de ambiente e clique em "Editar".
     - Adicione este conteúdo à variável:
@@ -40,11 +40,11 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Ao chegar na pasta digite:
 
-        `$ javac arquivo.java`
+        $ javac arquivo.java
 
   - Feito isso é só executar:
 
-        `$ java arquivo`
+        $ java arquivo
 
 
 3. Em Ruby:
@@ -53,7 +53,7 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
   - Caminhe até a pasta onde o código se encontra.
   - Execute o seguinte comando:
 
-        `$ ruby arquivo.ruby`
+        $ ruby arquivo.ruby
 
 
 ## Sequenciais
