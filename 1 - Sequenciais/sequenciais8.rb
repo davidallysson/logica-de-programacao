@@ -5,5 +5,5 @@ puts "Qual o valor da sua hora de trabalho?"
 valordahora = gets.to_f
 puts "Quantas horas você trabalha por dia?"
 horastrabalhadas = gets.to_i
-quantidadesdedias = 22 #estimativa de dias úteis em um mês
-puts "O seu salário no mês é de: #{ (valordahora * horastrabalhadas) * quantidadesdedias}"
+quantidadededias = 22 #estimativa de dias úteis em um mês
+puts "O seu salário no mês é de: #{ (valordahora * horastrabalhadas) * quantidadededias}"
