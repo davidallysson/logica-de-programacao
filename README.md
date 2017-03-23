@@ -1,6 +1,6 @@
 # Lógica de Programação
 
-Repositório - em construção - contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
+Repositório - :warning: :construction: em construção :construction: :warning: - contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
 
 ## Como executar os códigos no Windows
 
