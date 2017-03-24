@@ -14,11 +14,15 @@ Repositório - :warning: :construction: em construção :construction: :warning:
       ```
       $ gcc -o teste arquivo.c
       ```
+
   - Feito isso é só executar:
+
       ```
       $ teste
       ```
+
   - ps: o nome "teste" pode ser alterado para qualquer nome.
+
 
 ### 2. Em C#:
 
