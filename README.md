@@ -29,22 +29,30 @@ Repositório - :warning: :construction: em construção :construction: :warning:
     - ps: geralmente se encontra em: “C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.
     - ps²: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
     - Pronto! Agora é só verificar se deu certo! Abra o terminal e execute:
+
         ```
         $ csc
         ```
+
     - Se tiver dado tudo certo aparecerá algo assim:
+
         ```
-        $ $ Microsoft (R) Visual C# Compiler version 4.6.1087.0
+        $ Microsoft (R) Visual C# Compiler version 4.6.1087.0
         for C# 5
         Copyright (C) Microsoft Corporation. All rights reserved.
         ```
+
     - Navegue até chegar na pasta onde o seu código C# se encontra, e execute:
+
         ```
         $ csc nomedoarquivo.cs
+
         ```
     - Essa linha de código gerará o '.exe'. Agora execute:
+
         ```
         $ nomedoarquivo.exe
+
         ```
 
 ### 3. Em Java:
