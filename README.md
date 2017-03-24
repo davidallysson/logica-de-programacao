@@ -20,7 +20,34 @@ Repositório - :warning: :construction: em construção :construction: :warning:
       ```
   - ps: o nome "teste" pode ser alterado para qualquer nome.
 
-### 2. Em Java:
+### 2. Em C#:
+
+    - Configure as variáveis de ambiente para que os código em C# possa ser compilado e executado no terminal:
+    - Em Computador (ou Meu Computador), clique em "Configurações Avançadas do Sistema" e depois na aba "Avançado".
+    - Clique no botão "Variáveis de Ambiente", procure pela variável PATH e clique em "Editar".
+    - Adicione, no final da variável PATH, o diretório em que o compilador do C# se encontra.
+    - ps: geralmente se encontra em: “C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.
+    - ps²: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
+    - Pronto! Agora é só verificar se deu certo! Abra o terminal e execute:
+        ```
+        $ csc
+        ```
+    - Se tiver dado tudo certo aparecerá algo assim:
+        ```
+        $ $ Microsoft (R) Visual C# Compiler version 4.6.1087.0
+        for C# 5
+        Copyright (C) Microsoft Corporation. All rights reserved.
+        ```
+    - Navegue até chegar na pasta onde o seu código C# se encontra, e execute:
+        ```
+        $ csc nomedoarquivo.cs
+        ```
+    - Essa linha de código gerará o '.exe'. Agora execute:
+        ```
+        $ nomedoarquivo.exe
+        ```
+
+### 3. Em Java:
 
   - Instale o JDK e o JRE no seu computador. (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
   - Configure as variáveis de ambiente para que os comandos java possam ser utilizados no terminal:
@@ -48,7 +75,7 @@ Repositório - :warning: :construction: em construção :construction: :warning:
     java arquivo
     ```
 
-### 3. Em Ruby:
+### 4. Em Ruby:
 
   - Instale o Ruby no seu computador. (https://rubyinstaller.org/downloads/)
   - Caminhe até a pasta onde o código se encontra.
@@ -56,12 +83,12 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 
         $ ruby arquivo.ruby
 
-
 ## Sequenciais
 
 1 - Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
 [C](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.c)
+[C#](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.cs)
 [Java](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.java)
 [PHP](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.php)
 [Python](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais1.py)
