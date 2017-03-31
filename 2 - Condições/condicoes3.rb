@@ -3,4 +3,6 @@
 numero = gets.to_i
 if (numero >= 0)
 	puts "O numero #{numero} é positivo."
+else
+	puts "O numero #{numero} não é positivo."
 end

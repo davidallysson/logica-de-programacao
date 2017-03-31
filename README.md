@@ -30,8 +30,8 @@ Repositório - :warning: :construction: em construção :construction: :warning:
   - Em Computador (ou Meu Computador), clique em "Configurações Avançadas do Sistema" e depois na aba "Avançado".
   - Clique no botão "Variáveis de Ambiente", procure pela variável PATH e clique em "Editar".
   - Adicione, no final da variável PATH, o diretório em que o compilador do C# se encontra.
-  - ps: geralmente se encontra em: “C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.
-  - ps²: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
+    - ps: geralmente se encontra em: “C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.
+    - ps²: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
   - Pronto! Agora é só verificar se deu certo! Abra o terminal e execute:
 
       ```
@@ -44,13 +44,13 @@ Repositório - :warning: :construction: em construção :construction: :warning:
       $ Microsoft (R) Visual C# Compiler version 4.6.1087.0 for C# 5 Copyright (C) Microsoft Corporation. All rights reserved.
       ```
 
-  - Navegue até chegar na pasta onde o seu código C# se encontra, e execute:
+  - Navegue até chegar na pasta onde o seu código C# se encontra, e execute: (essa linha de código gerará o '.exe')
 
       ```
       $ csc nomedoarquivo.cs
       ```
 
-  - Essa linha de código gerará o '.exe'. Agora execute:
+  - Agora execute:
 
       ```
       $ nomedoarquivo.exe
@@ -78,11 +78,11 @@ Repositório - :warning: :construction: em construção :construction: :warning:
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Ao chegar na pasta digite:
     ```
-    javac arquivo.java
+    $ javac arquivo.java
     ```
   - Feito isso é só executar:
     ```
-    java arquivo
+    $ java arquivo
     ```
 
 ### 4. Em Ruby:
@@ -93,7 +93,9 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 
         $ ruby arquivo.ruby
 
-## Sequenciais
+## Lista de Questões
+
+### 1. Sequenciais
 
 1 - Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
@@ -203,61 +205,74 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 [Python](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais13.py)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/1%20-%20Sequenciais/sequenciais13.rb)
 
-## Condicionais
+### 2. Condicionais
 
 1 - Escreva um programa que leia um número e mostre se ele é igual a 10.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes1.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes1.rb)
 
 2 - Escreva um programa que leia um número e mostre se ele é múltiplo de 7.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes2.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes2.rb)
 
 3 - Escreva um programa que leia um número e mostre se ele é positivo.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes3.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes3.rb)
 
 4 - Escreva um programa que leia dois números e informe se eles são iguais.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes4.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes4.rb)
 
 5 - Escreva um programa que leia dois números e mostre o maior.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes5.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes5.rb)
 
 6 - Escreva um programa que leia dois nomes e mostre o que contém maior quantidade de caracteres.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes6.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes6.rb)
 
 7 - Escreva um programa que leia um número e mostre se ele é positivo.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes7.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes7.rb)
 
 8 - Escreva um programa que leia um número inteiro que corresponde a um ângulo e informe em qual quadrante este ângulo se encontra.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes8.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes8.rb)
 
 9 - Escreva um programa que leia um número inteiro que corresponde a um ângulo e informe em qual quadrante este ângulo se encontra e quantas voltas ele dá. (360º = uma volta)
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes9.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes9.rb)
 
 10 - Escreva um programa que leia dois números inteiros e informe se o maior é múltiplo do menor
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes10.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes10.rb)
 
 11 - Escreva um programa que leia dois nomes de times de futebol, a quantidade de gols do primeiro time, a quantidade de gols do segundo time e mostre o nome do time vencedor da partida.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes11.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes11.rb)
 
 12 - Brincadeira do ímpar ou par: escreva um programa que leia dois nomes e dois valores inteiros, que correspondem ao que cada um colocou, e informe quem ganhou o "impar ou par".
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes12.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes12.rb)
 
 13 - Escreva um programa que leia 4 números e mostre o maior.
 
+[C](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes13.c)
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/2%20-%20Condi%C3%A7%C3%B5es/condicoes13.rb)
 
-## Laços
+### 3. Laços
 
 1 - Faça um programa que peça uma nota, entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.
 
@@ -283,7 +298,7 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/3%20-%20Laços/lacos6.rb)
 
-## Vetores
+### 4. Vetores
 
 1 - Escreva um programa que leia 30 números e armazene-os em um array. Depois leia mais um número inteiro, que deve corresponder a um índice do array, e troque o primeiro elemento com o elemento do índice lido. Caso o índice não seja válido o programa deve trocar o primeiro com o último elemento. Ao final o programa deve mostrar os elementos do array, um elemento por linha.
 
@@ -315,7 +330,7 @@ determine a matriz D resultante da operação A + B – C.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/4%20-%20Vetores/vetores6.rb)
 
-## Funções
+### 5. Funções
 
 1 - Escreva uma função, chamada maior2, que retorna o maior de dois números
 
@@ -349,7 +364,7 @@ determine a matriz D resultante da operação A + B – C.
 
 [Ruby](https://github.com/davidallysson/logica-de-programacao/blob/master/5%20-%20Fun%C3%A7%C3%B5es/funcoes08.rb)
 
-## Recursividade
+### 6. Recursividade
 
 1 - Escreva uma função recursiva que realize a operação de divisão.
 
