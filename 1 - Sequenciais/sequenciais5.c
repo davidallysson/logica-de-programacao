@@ -1,4 +1,4 @@
-//Faça um programa que converta metros para centímetros
+//Faça um programa que converta metros para centímetros.
 
 #include <stdio.h>
 
