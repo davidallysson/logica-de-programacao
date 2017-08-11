@@ -1,6 +1,9 @@
 # Lógica de Programação
 
-Repositório - :warning: :construction: em construção :construction: :warning: - contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
+![Lógica de Programação](https://i.ytimg.com/vi/Ds1n6aHchRU/maxresdefault.jpg)
+
+:warning: :construction: em construção :construction: :warning:
+Repositório contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
 
 ## Como executar os códigos no Windows
 
@@ -8,7 +11,7 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 
   - Baixe o gcc através deste link: (http://tdm-gcc.tdragon.net/download)
   - Instale o gcc normalmente no seu computador.
-  - Caminhe até a pasta onde o arquivo .c está localizado.
+  - Caminhe, no terminal, até a pasta onde o arquivo .c está localizado.
   - Ao chegar na pasta, compile o código da questão:
 
       ```
@@ -88,10 +91,21 @@ Repositório - :warning: :construction: em construção :construction: :warning:
 ### 4. Em Ruby:
 
   - Instale o Ruby no seu computador. (https://rubyinstaller.org/downloads/)
-  - Caminhe até a pasta onde o código se encontra.
+  - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Execute o seguinte comando:
 
         $ ruby arquivo.ruby
+
+### 5. Em PHP:
+
+  - Instale o XAMPP no seu computador. (https://www.apachefriends.org/pt_br/index.html)
+  - Após instalado, vá até C://xampp//htdocs e ao chegar lá crie uma pasta para colocar os códigos PHP dentro.
+  - Feito isso, abra o XAMPP e inicie o servidor Apache.
+  - Após o servidor começar a funcionar vá até o navegador e acesse: http://localhost/nome_da_pasta_criada/nome_do_codigo.php
+
+### 6. Em Python:
+
+  - Em breve...
 
 ## Lista de Questões
 
