@@ -106,7 +106,11 @@ Repositório contendo exercícios resolvidos de lógica de programação em dive
 
 ### 6. Em Python:
 
-  - Em breve...
+  - Instale o Python no seu computador. (https://www.python.org/downloads/)
+  - Abra o terminal e caminhe até a pasta onde o código se encontra.
+  - Execute o seguinte comando:
+
+        $ python arquivo.py
 
 ## Lista de Questões
 
