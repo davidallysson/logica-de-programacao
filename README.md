@@ -3,6 +3,7 @@
 ![Lógica de Programação](https://i.ytimg.com/vi/Ds1n6aHchRU/maxresdefault.jpg)
 
 :warning: :construction: em construção :construction: :warning:
+
 Repositório contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
 
 ## Como executar os códigos no Windows
