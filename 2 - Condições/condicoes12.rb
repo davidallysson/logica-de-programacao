@@ -10,7 +10,7 @@ mao1 = gets.to_i
 puts "Digite o número de dedos do segundo jogador:"
 mao2 = gets.to_i
 
-if(mao1 >= mao2)
+if( (mao1 + mao2) % 2 == 1)
 	puts "O jogador vencedor é: #{nome1}"
 else
 	puts "O jogador vencedor é: #{nome2}"
