@@ -1,3 +1,5 @@
+#Escreva uma função recursiva que gere o fatorial de um número "x".
+
 def fat(x)
 	if(x < 0 && x % 1 != 0)
 		return -1

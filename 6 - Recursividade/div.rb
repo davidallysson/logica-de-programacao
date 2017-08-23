@@ -1,3 +1,5 @@
+#Escreva uma função recursiva que realize a operação de divisão.
+
 def div(x, y)
   if x < y
   	return 0
