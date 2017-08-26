@@ -6,7 +6,7 @@ int main()
 {
   int angulo;
   scanf("%d", &angulo);
-  if (angulo <= 90) {
+  if (angulo >= 0 && angulo <= 90) {
     printf("O angulo esta no primeiro quadrante");
   }
   else if (angulo > 90 && angulo <= 180) {

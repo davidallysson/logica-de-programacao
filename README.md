@@ -1,8 +1,10 @@
 # Lógica de Programação
 
-![Lógica de Programação](https://i.ytimg.com/vi/Ds1n6aHchRU/maxresdefault.jpg)
+![Lógica de Programação](https://github.com/davidallysson/davidallysson.github.io/blob/master/img/logica-de-programa%C3%A7%C3%A3o.png?raw=true)
 
-:warning: :construction: em construção :construction: :warning:
+## :warning: :construction: Em Construção :construction: :warning:
+
+<progress max="100" value="30"></progress>
 
 Repositório contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando.
 
