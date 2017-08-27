@@ -8,10 +8,6 @@ public class condicoes7 {
     Scanner scan = new Scanner(System.in);
     System.out.println("Digite um numero: ");
     int num1 = scan.nextInt();
-    if (num1 >= 0) {
-      System.out.println("O numero é positivo");
-    } else {
-      System.out.println("O numero é negativo");
-    }
+    System.out.println( num1 >= 0 ? "O numero é positivo" : "O numero é negativo");
   }
 }
