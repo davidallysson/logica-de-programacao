@@ -2,9 +2,16 @@
 
 ![Lógica de Programação](https://github.com/davidallysson/davidallysson.github.io/blob/master/img/logica-de-programa%C3%A7%C3%A3o.png?raw=true)
 
-## :warning: :construction: Em Construção :construction: :warning:
+Sumário
 
-Repositório contendo exercícios resolvidos de lógica de programação em diversas linguagens. Alguns links possivelmente ainda não estarão funcionando. (Encontrou algum erro ou link quebrado? abre uma issue aê!)
+* [Introdução](https://github.com/davidallysson/logica-de-programacao#introdução)
+* [Como executar os códigos (no Windows)](https://github.com/davidallysson/logica-de-programacao#como-executar-os-códigos-no-windows)
+* [Questões Introdutórias](https://github.com/davidallysson/logica-de-programacao#questões-introdutórias)
+* [Problemas Contextualizados](https://github.com/davidallysson/logica-de-programacao#problemas-contextualizados)
+
+## Introdução
+
+Esse repositório foi criado com o objetivo de centralizar todos as questões de programação que eu estou estudando/programando no momento. Atualmente, o objetivo do repositório também foi expandido para contemplar questões de Maratonas de Programação. Estou participando de um curso de Programação Competitiva e lidamos com questões contextualizadas constantemente. Elas também podem ser encontradas neste repositório. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
 
 ## Como executar os códigos (no Windows):
 
