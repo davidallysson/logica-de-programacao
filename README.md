@@ -6,8 +6,22 @@
 
 > * [Introdução](https://github.com/davidallysson/logica-de-programacao#introdução)
 > * [Como executar os códigos (no Windows)](https://github.com/davidallysson/logica-de-programacao#como-executar-os-códigos-no-windows)
+>   * [1. Em C:](https://github.com/davidallysson/logica-de-programacao#1-em-c)
+>   * [2. Em C#:](https://github.com/davidallysson/logica-de-programacao#2-em-c)
+>   * [3. Em Java:](https://github.com/davidallysson/logica-de-programacao#3-em-java)
+>   * [4. Em Ruby:](https://github.com/davidallysson/logica-de-programacao#4-em-ruby)
+>   * [5. Em PHP:](https://github.com/davidallysson/logica-de-programacao#5-em-php)
+>   * [6. Em Python:](https://github.com/davidallysson/logica-de-programacao#6-em-python)
 > * [Questões Introdutórias](https://github.com/davidallysson/logica-de-programacao#questões-introdutórias)
+>   * [1. Sequenciais:](https://github.com/davidallysson/logica-de-programacao#1-sequenciais)
+>   * [2. Condicionais:](https://github.com/davidallysson/logica-de-programacao#2-condicionais)
+>   * [3. Laços:](https://github.com/davidallysson/logica-de-programacao#3-laços)
+>   * [4. Vetores:](https://github.com/davidallysson/logica-de-programacao#4-vetores)
+>   * [5. Funções:](https://github.com/davidallysson/logica-de-programacao#5-funções)
+>   * [6. Recursividade:](https://github.com/davidallysson/logica-de-programacao#6-recursividade)
 > * [Problemas Contextualizados](https://github.com/davidallysson/logica-de-programacao#problemas-contextualizados)
+>   * [URI - Categoria Iniciante](https://github.com/davidallysson/logica-de-programacao#uri---categoria-iniciante)
+>   * [URI - Categoria Ad-hoc](https://github.com/davidallysson/logica-de-programacao#uri---categoria-ad-hoc)
 
 ## Introdução
 
@@ -492,6 +506,6 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1014 - Consumo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Consumo.c)
 * [1015 - Distancia Entre Dois Pontos](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
 
-### URI - Categoria AD-HOC
+### URI - Categoria Ad-hoc
 
 * [1026 - Carrega ou não Carrega](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/2%20-%20Ad-hoc/) => Código
