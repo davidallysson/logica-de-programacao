@@ -1,17 +1,17 @@
-# Lógica de Programação
+# Estudos em Lógica de Programação
 
 ![Lógica de Programação](https://github.com/davidallysson/davidallysson.github.io/blob/master/img/logica-de-programa%C3%A7%C3%A3o.png?raw=true)
 
-Sumário
+## Sumário
 
-* [Introdução](https://github.com/davidallysson/logica-de-programacao#introdução)
-* [Como executar os códigos (no Windows)](https://github.com/davidallysson/logica-de-programacao#como-executar-os-códigos-no-windows)
-* [Questões Introdutórias](https://github.com/davidallysson/logica-de-programacao#questões-introdutórias)
-* [Problemas Contextualizados](https://github.com/davidallysson/logica-de-programacao#problemas-contextualizados)
+> * [Introdução](https://github.com/davidallysson/logica-de-programacao#introdução)
+> * [Como executar os códigos (no Windows)](https://github.com/davidallysson/logica-de-programacao#como-executar-os-códigos-no-windows)
+> * [Questões Introdutórias](https://github.com/davidallysson/logica-de-programacao#questões-introdutórias)
+> * [Problemas Contextualizados](https://github.com/davidallysson/logica-de-programacao#problemas-contextualizados)
 
 ## Introdução
 
-Esse repositório foi criado com o objetivo de centralizar todos as questões de programação que eu estou estudando/programando no momento. Atualmente, o objetivo do repositório também foi expandido para contemplar questões de Maratonas de Programação. Estou participando de um curso de Programação Competitiva e lidamos com questões contextualizadas constantemente. Elas também podem ser encontradas neste repositório. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
+Esse repositório foi criado com o objetivo de centralizar todos as questões de programação que eu estou estudando - e programando - no momento. Atualmente, o objetivo do repositório também foi expandido para contemplar questões de Maratonas de Programação. Estou participando de um curso de Programação Competitiva e lidamos com questões contextualizadas constantemente. Elas também podem ser encontradas neste repositório. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
 
 ## Como executar os códigos (no Windows):
 
@@ -476,10 +476,22 @@ Os problemas a seguir são retirados dos seguintes sites:
 
 ### URI - Categoria Iniciante
 
-* [1001 - Extremamente Basico](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1001%20-%20Extremamente%20B%C3%A1sico%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/ExtremamenteBasico.c)
-* [1002 - Área do Círculo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/AreaDoCirculo.c)
-* [1003 - Soma Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1003%20-%20Soma%20Simples%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/SomaSimples.c)
-* [1004 - Produto Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1004%20-%20Produto%20Simples%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/ProdutoSimples.c)
-* [1005 - Média 1](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1005%20-%20M%C3%A9dia%201%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/Media1.c)
-* [1006 - Média 2](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1006%20-%20M%C3%A9dia%202%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/Media2.c)
-* [1007 - Diferença](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/1007%20-%20Diferen%C3%A7a%20-%20URI%20Online%20Judge.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/Iniciante/Diferenca.c)
+* [1001 - Extremamente Basico](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1001%20-%20Extremamente%20B%C3%A1sico.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/ExtremamenteBasico.c)
+* [1002 - Área do Círculo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/AreaDoCirculo.c)
+* [1003 - Soma Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1003%20-%20Soma%20Simples.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/SomaSimples.c)
+* [1004 - Produto Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1004%20-%20Produto%20Simples.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/ProdutoSimples.c)
+* [1005 - Média 1](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1005%20-%20M%C3%A9dia%201.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Media1.c)
+* [1006 - Média 2](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1006%20-%20M%C3%A9dia%202.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Media2.c)
+* [1007 - Diferença](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1007%20-%20Diferen%C3%A7a.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Diferenca.c)
+* [1008 - Salário](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Salario.c)
+* [1009 - Salário Com Bônus](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/SalarioComBonus.c)
+* [1010 - Cálculo Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/CalculoSimples.c)
+* [1011 - Esfera](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Esfera.c)
+* [1012 - Área](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Area.c)
+* [1013 - O Maior](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/OMaior.c)
+* [1014 - Consumo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Consumo.c)
+* [1015 - Distancia Entre Dois Pontos](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
+
+### URI - Categoria AD-HOC
+
+* [1026 - Carrega ou não Carrega](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/2%20-%20Ad-hoc/) => Código
