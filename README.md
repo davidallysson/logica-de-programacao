@@ -4,7 +4,7 @@
 
 ## Sumário
 
-> * [Introdução](https://github.com/davidallysson/logica-de-programacao#introdução)
+> * [Introdução](#introdução)
 > * [Como executar os códigos (no Windows)](https://github.com/davidallysson/logica-de-programacao#como-executar-os-códigos-no-windows)
 >   * [1. Em C:](https://github.com/davidallysson/logica-de-programacao#1-em-c)
 >   * [2. Em C#:](https://github.com/davidallysson/logica-de-programacao#2-em-c)
@@ -497,21 +497,23 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1005 - Média 1](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1005%20-%20M%C3%A9dia%201.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Media1.c)
 * [1006 - Média 2](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1006%20-%20M%C3%A9dia%202.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Media2.c)
 * [1007 - Diferença](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1007%20-%20Diferen%C3%A7a.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Diferenca.c)
-* [1008 - Salário](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Salario.c)
-* [1009 - Salário Com Bônus](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/SalarioComBonus.c)
-* [1010 - Cálculo Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/CalculoSimples.c)
-* [1011 - Esfera](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Esfera.c)
-* [1012 - Área](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Area.c)
-* [1013 - O Maior](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/OMaior.c)
-* [1014 - Consumo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Consumo.c)
-* [1015 - Distancia Entre Dois Pontos](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
-* [1016 - Distancia](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Distancia.c)
-* [1017 - Gasto de Combustível](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/GastoDeCombustivel.c)
-* [1018 - Cédulas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Cedulas.c)
-* [1019 - Conversão de Tempo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/ConversaoDeTempo.c)
-* [1020 - Idade em Dias](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/IdadeEmDias.c)
-* [1021 - Notas e Moedas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/NotasEMoedas.c)
+* [1008 - Salário](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1008%20-%20Sal%C3%A1rio.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Salario.c)
+* [1009 - Salário Com Bônus](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1009%20-%20Sal%C3%A1rio%20com%20B%C3%B4nus.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/SalarioComBonus.c)
+* [1010 - Cálculo Simples](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1010%20-%20C%C3%A1lculo%20Simples.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/CalculoSimples.c)
+* [1011 - Esfera](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1011%20-%20Esfera.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Esfera.c)
+* [1012 - Área](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1012%20-%20%C3%81rea.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Area.c)
+* [1013 - O Maior](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1013%20-%20O%20Maior.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/OMaior.c)
+* [1014 - Consumo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1014%20-%20Consumo.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Consumo.c)
+* [1015 - Distancia Entre Dois Pontos](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1015%20-%20Dist%C3%A2ncia%20Entre%20Dois%20Pontos.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
+* [1016 - Distancia](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1016%20-%20Dist%C3%A2ncia.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Distancia.c)
+* [1017 - Gasto de Combustível](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1017%20-%20Gasto%20de%20Combust%C3%ADvel.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/GastoDeCombustivel.c)
+* [1018 - Cédulas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1018%20-%20C%C3%A9dulas.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Cedulas.c)
+* [1019 - Conversão de Tempo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1019%20-%20Convers%C3%A3o%20de%20Tempo.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/ConversaoDeTempo.c)
+* [1020 - Idade em Dias](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1020%20-%20Idade%20em%20Dias.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/IdadeEmDias.c)
+* [1021 - Notas e Moedas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/1021%20-%20Notas%20e%20Moedas.pdf) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/NotasEMoedas.c)
+* [1035 - Teste de Seleção 1](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/TesteDeSelecao1.c)
+* [1036 - Fórmula de Bhaskara](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Bhaskara.c)
 
 ### URI - Categoria Ad-hoc
 
-* [1026 - Carrega ou não Carrega](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/2%20-%20Ad-hoc/) => Código
+* [1026 - Carrega ou não Carrega](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/2%20-%20Ad-hoc/1026%20-%20Carrega%20ou%20n%C3%A3o%20Carrega.pdf) => Código
