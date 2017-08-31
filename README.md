@@ -505,6 +505,12 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1013 - O Maior](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/OMaior.c)
 * [1014 - Consumo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Consumo.c)
 * [1015 - Distancia Entre Dois Pontos](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
+* [1016 - Distancia](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Distancia.c)
+* [1017 - Gasto de Combustível](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/GastoDeCombustivel.c)
+* [1018 - Cédulas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/Cedulas.c)
+* [1019 - Conversão de Tempo](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/ConversaoDeTempo.c)
+* [1020 - Idade em Dias](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/IdadeEmDias.c)
+* [1021 - Notas e Moedas](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/) => [Código](https://github.com/davidallysson/logica-de-programacao/blob/master/URI/1%20-%20Iniciante/NotasEMoedas.c)
 
 ### URI - Categoria Ad-hoc
 
