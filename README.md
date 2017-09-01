@@ -511,8 +511,16 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1019 - Conversão de Tempo](URI/1%20-%20Iniciante/1019%20-%20Convers%C3%A3o%20de%20Tempo.pdf) => [Código](URI/1%20-%20Iniciante/ConversaoDeTempo.c)
 * [1020 - Idade em Dias](URI/1%20-%20Iniciante/1020%20-%20Idade%20em%20Dias.pdf) => [Código](URI/1%20-%20Iniciante/IdadeEmDias.c)
 * [1021 - Notas e Moedas](URI/1%20-%20Iniciante/1021%20-%20Notas%20e%20Moedas.pdf) => [Código](URI/1%20-%20Iniciante/NotasEMoedas.c)
-* [1035 - Teste de Seleção 1](URI/1%20-%20Iniciante/1035 - Teste de Seleção 1.pdf) => [Código](URI/1%20-%20Iniciante/TesteDeSelecao1.c)
-* [1036 - Fórmula de Bhaskara](URI/1%20-%20Iniciante/1036 - Fórmula de Bhaskara.pdf) => [Código](URI/1%20-%20Iniciante/Bhaskara.c)
+* [1035 - Teste de Seleção 1](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TesteDeSelecao1.c)
+* [1036 - Fórmula de Bhaskara](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Bhaskara.c)
+* [1037 - Intervalo](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Intervalo.c)
+* [1038 - Lanche](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Lanche.c)
+* [1040 - Média 3](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Media3.c)
+* [1041 - Coordenadas de um Ponto](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/CoordenadasDeUmPonto.c) @ wrong
+* [1042 - Sort Simples](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SortSimples.c)
+* [1043 - Triangulo](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Triangulo.c)
+* [1044 - Múltiplos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Multiplos.c)
+* [1045 - Tipos de Triangulos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TiposDeTriangulos.c)
 
 ### URI - Categoria Ad-hoc
 
