@@ -521,7 +521,10 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1043 - Triangulo](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Triangulo.c)
 * [1044 - Múltiplos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Multiplos.c)
 * [1045 - Tipos de Triangulos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TiposDeTriangulos.c)
+* [1046 - Tempo de Jogo](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TempoDeJogo.c)
+* [1047 - Tempo de Jogo com Minutos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TempoDeJogoComMinutos.c)
+* [1048 - Aumento de Salário](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/AumentoDeSalario.c)
 
 ### URI - Categoria Ad-hoc
 
-* [1026 - Carrega ou não Carrega](URI/2%20-%20Ad-hoc/1026%20-%20Carrega%20ou%20n%C3%A3o%20Carrega.pdf) => Código
+* [1026 - Carrega ou não Carrega](URI/2%20-%20Ad-hoc/1026%20-%20Carrega%20ou%20n%C3%A3o%20Carrega.pdf) => [Código](URI/2%20-%20Ad-hoc/)
