@@ -524,20 +524,32 @@ Os problemas a seguir são retirados dos seguintes sites:
 * [1046 - Tempo de Jogo](URI/1%20-%20Iniciante/1046%20-%20Tempo%20de%20Jogo.pdf) => [Código](URI/1%20-%20Iniciante/TempoDeJogo.c)
 * [1047 - Tempo de Jogo com Minutos](URI/1%20-%20Iniciante/1047%20-%20Tempo%20de%20Jogo%20com%20Minutos.pdf) => [Código](URI/1%20-%20Iniciante/TempoDeJogoComMinutos.c)
 * [1048 - Aumento de Salário](URI/1%20-%20Iniciante/1048%20-%20Aumento%20de%20Salário.pdf) => [Código](URI/1%20-%20Iniciante/AumentoDeSalario.c)
-* [1049 - Animal](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Animal.c) @ wrong
+* [1049 - Animal](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Animal.c) :warning:
 * [1050 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/DDD.c)
 * [1051 - Imposto de Renda](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/ImpostoDeRenda.c)
 * [1052 - Mês](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Mes.c)
 * [1059 - Números Pares](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/NumerosPares.c)
 * [1060 - Números Positivos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/NumerosPositivos.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
-<!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
+* [1061 - Tempo de um Evento](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TempoDeUmEvento.c)
+* [1064 - Positivos e Média](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/PositivosEMedia.c)
+* [1065 - Pares entre Cinco Números](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/ParesEntreCincoNumeros.c)
+* [1066 - Pares, Ímpares, Positivos e Negativos](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/ParesImparesPositivosNegativos.c)
+* [1067 - Números Ímpares](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/NúmerosImpares.c)
+* [1070 - Seis Números Ímpares](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SeisNumerosImpares.c)
+* [1071 - Soma de Impares Consecutivos I](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SomaDeImparesConsecutivos.c)
+* [1072 - Intervalo 2](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Intervalo2.c)
+* [1073 - Quadrado de Pares](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/QuadradoDePares.c)
+* [1074 - Par ou Ímpar](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/ParOuImpar.c)
+* [1075 - Resto 2](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Resto2.c)
+* [1078 - Tabuada](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Tabuada.c)
+* [1079 - Médias Ponderadas](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/MediasPonderadas.c)
+* [1080 - Maior e Posição](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/MaiorEPosicao.c)
+* [1094 - Experiências](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Experiencias.c) :warning:
+* [1095 - Sequencia IJ 1](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaIJ1.c)
+* [1096 - Sequencia IJ 2](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaIJ2.c)
+* [1097 - Sequencia IJ 3](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaIJ3.c)
+* [1098 - Sequencia IJ 4](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaIJ4.c)
+
 <!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
 <!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
 <!--* [1000 - DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/<codigo>.c)
@@ -549,6 +561,7 @@ Os problemas a seguir são retirados dos seguintes sites:
 ### URI - Categoria Ad-hoc
 
 * [1026 - Carrega ou não Carrega](URI/2%20-%20Ad-hoc/1026%20-%20Carrega%20ou%20n%C3%A3o%20Carrega.pdf) => [Código](URI/2%20-%20Ad-hoc/CarregaOuNaoCarrega.c)
+* [1030 - A Lenda de Flavious Josephus](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/LendaDeFlaviousJosephus.c) :warning:
 
 ### UVA - Contest Volumes
 
