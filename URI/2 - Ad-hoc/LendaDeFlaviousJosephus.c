@@ -1,32 +1,35 @@
 #include <stdio.h>
 
 int main() {
-  int i = 0, nc, n, salto;
-  //scanf("%d", &nc);
-  //for (i = 1; i <= nc; i++) {
+  int k, nc, n, salto;
+  scanf("%d", &nc);
+  for (k = 0; k < nc; k++) {
     scanf("%d %d", &n, &salto);
-    int soldados[n];
-    int j = 0, passo = salto, vivos = n;
+    int soldados[n], i = 0, passo = salto, vivos = n;
+    for (i = 0; i < n; i++)
+      soldados[i] = 1;
+
+    i = 0; //Reiniciando contador
     while (vivos > 1) {
-      if (soldados[j] == 0) {
+      if (soldados[i] == 1)
         passo--;
-      }
       if (passo == 0) {
-        soldados[j] = 1;
+        soldados[i] = 0;
         passo = salto;
         vivos--;
       }
-      j++;
-      if (j == n) {
-        j = 0;
-      }
+      i++;
+      if (i == n)
+        i = 0;
     }
-    int k = 0;
-    for (k = 0; k < n; k++) {
-      if (soldados[k] == 0) {
-        printf("%d\n", (k+1));
-      }
+
+    i = 0; //Reiniciando contador
+    for (i = 0; i < n; i++) {
+      if (soldados[i] == 1)
+        printf("Case %d: %d\n", (k + 1), (i + 1));
     }
   }
+
+
   return 0;
 }
