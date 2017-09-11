@@ -31,87 +31,62 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
 
 ### 1. Em C:
 
-  - Baixe o gcc através deste link: (http://tdm-gcc.tdragon.net/download)
-  - Instale o gcc normalmente no seu computador.
-  - Caminhe, no terminal, até a pasta onde o arquivo .c está localizado.
-  - Ao chegar na pasta, compile o código da questão:
+  - Baixe o gcc através deste link: (http://tdm-gcc.tdragon.net/download) e instale-o normalmente no seu computador.
+  - Caminhe, no terminal, até a pasta onde o seu código C está localizado.
+  - Ao chegar na pasta, compile o código da questão: (O nome *teste* pode ser alterado para qualquer nome)
 
-    ```
-    $ gcc -o teste arquivo.c
-    ```
+  `$ gcc -o teste arquivo.c `
 
   - Feito isso é só executar:
 
-    ```
-    $ teste
-    ```
-
-  - ps: o nome "teste" pode ser alterado para qualquer nome.
-
+  `$ teste`
 
 ### 2. Em C#:
-
-  - Configure as variáveis de ambiente para que os código em C# possa ser compilado e executado no terminal:
+Vamos configurar as variáveis de ambiente para que os código em C# possam ser compilados e executados no terminal:
   - Em Computador (ou Meu Computador), clique em "Configurações Avançadas do Sistema" e depois na aba "Avançado".
   - Clique no botão "Variáveis de Ambiente", procure pela variável PATH e clique em "Editar".
   - Adicione, no final da variável PATH, o diretório em que o compilador do C# se encontra.
-    - ps: geralmente se encontra em:
-
-        “C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.
-
-    - ps²: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
+    - Um diretório comum é: `“C:\Windows\Microsoft.NET\Framework64\v4.0.30319″.`
+    - OBS: Não esqueça de colocar o caractere ponto-e-vírgula (;) para inserir uma nova entrada na variável “PATH”.
   - Pronto! Agora é só verificar se deu certo! Abra o terminal e execute:
 
-      ```
-      $ csc
-      ```
+  `$ csc`
 
   - Se tiver dado tudo certo aparecerá algo assim:
 
-      ```
-      $ Microsoft (R) Visual C# Compiler version 4.6.1087.0 for C# 5 Copyright (C) Microsoft Corporation. All rights reserved.
-      ```
+  `$ Microsoft (R) Visual C# Compiler version 4.6.1087.0 for C# 5 Copyright (C) Microsoft Corporation. All rights reserved.`
 
   - Navegue até chegar na pasta onde o seu código C# se encontra, e execute: (essa linha de código gerará o '.exe')
 
-      ```
-      $ csc nomedoarquivo.cs
-      ```
+  `$ csc nomedoarquivo.cs`
 
   - Agora execute:
 
-      ```
-      $ nomedoarquivo.exe
-      ```
+  `$ nomedoarquivo.exe`
 
 
 ### 3. Em Java:
 
   - Instale o JDK e o JRE no seu computador. (http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-  - Configure as variáveis de ambiente para que os comandos java possam ser utilizados no terminal:
-    - Em Computador (ou Meu Computador), clique em "Configurações Avançadas do Sistema" e depois na aba "Avançado".
-    - Clique no botão "Variáveis de Ambiente" e depois crie uma nova variável do sistema.
-    - O nome da variável será "JAVA_HOME" e o seu valor será o caminho até o JDK instalado. Ex: “C:/Arquivos de programas/Java/jdk1.5.0_05”.
-    - Clique em OK e crie novamente outra variável de ambiente.
-    - Nomeei ela com "CLASSPATH" e adicione este valor: (se houver algo no CLASSPATH coloque ';' e adicione este conteúdo após o sinal).
-    ```
-    ;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;
-    ```
-    - Clique em OK e depois procure por "PATH" nas variáveis de ambiente e clique em "Editar".
-    - Adicione este conteúdo à variável:
-    ```
-    $ ;%JAVA_HOME%\bin
-    ```
-    - Clique em OK e feche todas as janelas.
+  - Em Computador (ou Meu Computador), clique em "Configurações Avançadas do Sistema" e depois na aba "Avançado".
+  - Clique no botão "Variáveis de Ambiente" e depois crie uma nova variável do sistema.
+  - O nome da variável será "JAVA_HOME" e o seu valor será o caminho até o JDK instalado. Ex: “C:/Arquivos de programas/Java/jdk1.5.0_05”.
+  - Clique em OK e crie novamente outra variável de ambiente.
+  - Nomeei ela com "CLASSPATH" e adicione este valor: (se houver algo no CLASSPATH coloque ';' e adicione este conteúdo após o sinal).
+
+  `;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\htmlconverter.jar;%JAVA_HOME%\jre\lib;%JAVA_HOME%\jre\lib\rt.jar;`
+
+  - Clique em OK e depois procure por "PATH" nas variáveis de ambiente e clique em "Editar".
+  - Adicione este conteúdo à variável: `$ ;%JAVA_HOME%\bin`
+  - Clique em OK e feche todas as janelas.
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Ao chegar na pasta digite:
-    ```
-    $ javac arquivo.java
-    ```
+
+    `$ javac arquivo.java`
+
   - Feito isso é só executar:
-    ```
-    $ java arquivo
-    ```
+
+    `$ java arquivo`
 
 ### 4. Em Ruby:
 
@@ -119,7 +94,7 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Execute o seguinte comando:
 
-        $ ruby arquivo.ruby
+    `$ ruby arquivo.ruby`
 
 ### 5. Em PHP:
 
@@ -134,7 +109,7 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
   - Abra o terminal e caminhe até a pasta onde o código se encontra.
   - Execute o seguinte comando:
 
-        $ python arquivo.py
+  `$ python arquivo.py`
 
 ## Questões Introdutórias:
 
@@ -490,89 +465,7 @@ Os problemas a seguir são retirados dos seguintes sites:
 
 ### URI - Categoria Iniciante
 
-* [1001 - Extremamente Basico](URI/1%20-%20Iniciante/1001%20-%20Extremamente%20B%C3%A1sico.pdf) => [Código](URI/1%20-%20Iniciante/ExtremamenteBasico.c)
-* [1002 - Área do Círculo](URI/1%20-%20Iniciante/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.pdf) => [Código](URI/1%20-%20Iniciante/AreaDoCirculo.c)
-* [1003 - Soma Simples](URI/1%20-%20Iniciante/1003%20-%20Soma%20Simples.pdf) => [Código](URI/1%20-%20Iniciante/SomaSimples.c)
-* [1004 - Produto Simples](URI/1%20-%20Iniciante/1004%20-%20Produto%20Simples.pdf) => [Código](URI/1%20-%20Iniciante/ProdutoSimples.c)
-* [1005 - Média 1](URI/1%20-%20Iniciante/1005%20-%20M%C3%A9dia%201.pdf) => [Código](URI/1%20-%20Iniciante/Media1.c)
-* [1006 - Média 2](URI/1%20-%20Iniciante/1006%20-%20M%C3%A9dia%202.pdf) => [Código](URI/1%20-%20Iniciante/Media2.c)
-* [1007 - Diferença](URI/1%20-%20Iniciante/1007%20-%20Diferen%C3%A7a.pdf) => [Código](URI/1%20-%20Iniciante/Diferenca.c)
-* [1008 - Salário](URI/1%20-%20Iniciante/1008%20-%20Sal%C3%A1rio.pdf) => [Código](URI/1%20-%20Iniciante/Salario.c)
-* [1009 - Salário Com Bônus](URI/1%20-%20Iniciante/1009%20-%20Sal%C3%A1rio%20com%20B%C3%B4nus.pdf) => [Código](URI/1%20-%20Iniciante/SalarioComBonus.c)
-* [1010 - Cálculo Simples](URI/1%20-%20Iniciante/1010%20-%20C%C3%A1lculo%20Simples.pdf) => [Código](URI/1%20-%20Iniciante/CalculoSimples.c)
-* [1011 - Esfera](URI/1%20-%20Iniciante/1011%20-%20Esfera.pdf) => [Código](URI/1%20-%20Iniciante/Esfera.c)
-* [1012 - Área](URI/1%20-%20Iniciante/1012%20-%20%C3%81rea.pdf) => [Código](URI/1%20-%20Iniciante/Area.c)
-* [1013 - O Maior](URI/1%20-%20Iniciante/1013%20-%20O%20Maior.pdf) => [Código](URI/1%20-%20Iniciante/OMaior.c)
-* [1014 - Consumo](URI/1%20-%20Iniciante/1014%20-%20Consumo.pdf) => [Código](URI/1%20-%20Iniciante/Consumo.c)
-* [1015 - Distancia Entre Dois Pontos](URI/1%20-%20Iniciante/1015%20-%20Dist%C3%A2ncia%20Entre%20Dois%20Pontos.pdf) => [Código](URI/1%20-%20Iniciante/DistanciaEntreDoisPontos.c)
-* [1016 - Distancia](URI/1%20-%20Iniciante/1016%20-%20Dist%C3%A2ncia.pdf) => [Código](URI/1%20-%20Iniciante/Distancia.c)
-* [1017 - Gasto de Combustível](URI/1%20-%20Iniciante/1017%20-%20Gasto%20de%20Combust%C3%ADvel.pdf) => [Código](URI/1%20-%20Iniciante/GastoDeCombustivel.c)
-* [1018 - Cédulas](URI/1%20-%20Iniciante/1018%20-%20C%C3%A9dulas.pdf) => [Código](URI/1%20-%20Iniciante/Cedulas.c)
-* [1019 - Conversão de Tempo](URI/1%20-%20Iniciante/1019%20-%20Convers%C3%A3o%20de%20Tempo.pdf) => [Código](URI/1%20-%20Iniciante/ConversaoDeTempo.c)
-* [1020 - Idade em Dias](URI/1%20-%20Iniciante/1020%20-%20Idade%20em%20Dias.pdf) => [Código](URI/1%20-%20Iniciante/IdadeEmDias.c)
-* [1021 - Notas e Moedas](URI/1%20-%20Iniciante/1021%20-%20Notas%20e%20Moedas.pdf) => [Código](URI/1%20-%20Iniciante/NotasEMoedas.c)
-* [1035 - Teste de Seleção 1](URI/1%20-%20Iniciante/1035%20-%20Teste%20de%20Seleção%201.pdf) => [Código](URI/1%20-%20Iniciante/TesteDeSelecao1.c)
-* [1036 - Fórmula de Bhaskara](URI/1%20-%20Iniciante/1036%20-%20Fórmula%20de%20Bhaskara.pdf) => [Código](URI/1%20-%20Iniciante/Bhaskara.c)
-* [1037 - Intervalo](URI/1%20-%20Iniciante/1037%20-%20Intervalo.pdf) => [Código](URI/1%20-%20Iniciante/Intervalo.c)
-* [1038 - Lanche](URI/1%20-%20Iniciante/1038%20-%20Lanche.pdf) => [Código](URI/1%20-%20Iniciante/Lanche.c)
-* [1040 - Média 3](URI/1%20-%20Iniciante/1040%20-%20Média%203.pdf) => [Código](URI/1%20-%20Iniciante/Media3.c)
-* [1041 - Coordenadas de um Ponto](URI/1%20-%20Iniciante/1041%20-%20Coordenadas%20de%20um%20Ponto.pdf) => [Código](URI/1%20-%20Iniciante/CoordenadasDeUmPonto.c)
-* [1042 - Sort Simples](URI/1%20-%20Iniciante/1042%20-%20Sort%20Simples.pdf) => [Código](URI/1%20-%20Iniciante/SortSimples.c)
-* [1043 - Triangulo](URI/1%20-%20Iniciante/1043%20-%20Triângulo.pdf) => [Código](URI/1%20-%20Iniciante/Triangulo.c)
-* [1044 - Múltiplos](URI/1%20-%20Iniciante/1044%20-%20Múltiplos.pdf) => [Código](URI/1%20-%20Iniciante/Multiplos.c)
-* [1045 - Tipos de Triangulos](URI/1%20-%20Iniciante/1045%20-%20Tipos%20de%20Triângulos.pdf) => [Código](URI/1%20-%20Iniciante/TiposDeTriangulos.c)
-* [1046 - Tempo de Jogo](URI/1%20-%20Iniciante/1046%20-%20Tempo%20de%20Jogo.pdf) => [Código](URI/1%20-%20Iniciante/TempoDeJogo.c)
-* [1047 - Tempo de Jogo com Minutos](URI/1%20-%20Iniciante/1047%20-%20Tempo%20de%20Jogo%20com%20Minutos.pdf) => [Código](URI/1%20-%20Iniciante/TempoDeJogoComMinutos.c)
-* [1048 - Aumento de Salário](URI/1%20-%20Iniciante/1048%20-%20Aumento%20de%20Salário.pdf) => [Código](URI/1%20-%20Iniciante/AumentoDeSalario.c)
-* [1049 - Animal](URI/1%20-%20Iniciante/1049%20-%20Animal.pdf) => [Código](URI/1%20-%20Iniciante/Animal.c) :warning:
-* [1050 - DDD](URI/1%20-%20Iniciante/1050%20-%20DDD.pdf) => [Código](URI/1%20-%20Iniciante/DDD.c)
-* [1051 - Imposto de Renda](URI/1%20-%20Iniciante/1051%20-%20Imposto%20de%20Renda.pdf) => [Código](URI/1%20-%20Iniciante/ImpostoDeRenda.c)
-* [1052 - Mês](URI/1%20-%20Iniciante/1052%20-%20Mês.pdf) => [Código](URI/1%20-%20Iniciante/Mes.c)
-* [1059 - Números Pares](URI/1%20-%20Iniciante/1059%20-%20Números%20Pares.pdf) => [Código](URI/1%20-%20Iniciante/NumerosPares.c)
-* [1060 - Números Positivos](URI/1%20-%20Iniciante/1060%20-%20Números%20Positivos.pdf) => [Código](URI/1%20-%20Iniciante/NumerosPositivos.c)
-* [1061 - Tempo de um Evento](URI/1%20-%20Iniciante/1061%20-%20Tempo%20de%20um%20Evento.pdf) => [Código](URI/1%20-%20Iniciante/TempoDeUmEvento.c)
-* [1064 - Positivos e Média](URI/1%20-%20Iniciante/1064%20-%20Positivos%20e%20Média.pdf) => [Código](URI/1%20-%20Iniciante/PositivosEMedia.c)
-* [1065 - Pares entre Cinco Números](URI/1%20-%20Iniciante/1065%20-%20Pares%20entre%20Cinco%20Números.pdf) => [Código](URI/1%20-%20Iniciante/ParesEntreCincoNumeros.c)
-* [1066 - Pares, Ímpares, Positivos e Negativos](URI/1%20-%20Iniciante/1066%20-%20Pares%2C%20Ímpares%2C%20Positivos%20e%20Negativos.pdf) => [Código](URI/1%20-%20Iniciante/ParesImparesPositivosNegativos.c)
-* [1067 - Números Ímpares](URI/1%20-%20Iniciante/1067%20-%20Números%20Ímpares.pdf) => [Código](URI/1%20-%20Iniciante/NúmerosImpares.c)
-* [1070 - Seis Números Ímpares](URI/1%20-%20Iniciante/1070%20-%20Seis%20Números%20Ímpares.pdf) => [Código](URI/1%20-%20Iniciante/SeisNumerosImpares.c)
-* [1071 - Soma de Impares Consecutivos I](URI/1%20-%20Iniciante/1071%20-%20Soma%20de%20Impares%20Consecutivos%20I.pdf) => [Código](URI/1%20-%20Iniciante/SomaDeImparesConsecutivos.c)
-* [1072 - Intervalo 2](URI/1%20-%20Iniciante/1072%20-%20Intervalo%202.pdf) => [Código](URI/1%20-%20Iniciante/Intervalo2.c)
-* [1073 - Quadrado de Pares](URI/1%20-%20Iniciante/1073%20-%20Quadrado%20de%20Pares.pdf) => [Código](URI/1%20-%20Iniciante/QuadradoDePares.c)
-* [1074 - Par ou Ímpar](URI/1%20-%20Iniciante/1074%20-%20Par%20ou%20Ímpar.pdf) => [Código](URI/1%20-%20Iniciante/ParOuImpar.c)
-* [1075 - Resto 2](URI/1%20-%20Iniciante/1075%20-%20Resto%202.pdf) => [Código](URI/1%20-%20Iniciante/Resto2.c)
-* [1078 - Tabuada](URI/1%20-%20Iniciante/1078%20-%20Tabuada.pdf) => [Código](URI/1%20-%20Iniciante/Tabuada.c)
-* [1079 - Médias Ponderadas](URI/1%20-%20Iniciante/1079%20-%20Médias%20Ponderadas.pdf) => [Código](URI/1%20-%20Iniciante/MediasPonderadas.c)
-* [1080 - Maior e Posição](URI/1%20-%20Iniciante/1080%20-%20Maior%20e%20Posição.pdf) => [Código](URI/1%20-%20Iniciante/MaiorEPosicao.c)
-* [1094 - Experiências](URI/1%20-%20Iniciante/1094%20-%20Experiências.pdf) => [Código](URI/1%20-%20Iniciante/Experiencias.c)
-* [1095 - Sequencia IJ 1](URI/1%20-%20Iniciante/1095%20-%20Sequencia%20IJ%201.pdf) => [Código](URI/1%20-%20Iniciante/SequenciaIJ1.c)
-* [1096 - Sequencia IJ 2](URI/1%20-%20Iniciante/1096%20-%20Sequencia%20IJ%202.pdf) => [Código](URI/1%20-%20Iniciante/SequenciaIJ2.c)
-* [1097 - Sequencia IJ 3](URI/1%20-%20Iniciante/1097%20-%20Sequencia%20IJ%203.pdf) => [Código](URI/1%20-%20Iniciante/SequenciaIJ3.c)
-* [1098 - Sequencia IJ 4](URI/1%20-%20Iniciante/1098%20-%20Sequencia%20IJ%204.pdf) => [Código](URI/1%20-%20Iniciante/SequenciaIJ4.c)
-* [1099 - Soma de Ímpares Consecutivos II](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SomaDeImparesConsecutivos2.c)
-* [1101 - Sequência de Números e Soma](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaDeNumerosESoma.c)
-* [1113 - Crescente e Decrescente](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/CrescenteEDecrescente.c)
-* [1114 - Senha Fixa](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SenhaFixa.c)
-* [1115 - Quadrante](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Quadrante.c)
-* [1116 - Dividindo X por Y](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/DividindoXPorY.c)
-* [1117 - Validação de Nota](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/ValidacaoDeNota.c)
-* [1118 - Várias Notas Com Validação](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/VariasNotasComValidacao.c)
-* [1131 - Grenais](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/Grenais.c)
-* [1132 - Múltiplos de 13](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/MultiplosDe13.c)
-* [1133 - Resto da Divisão](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/RestoDaDivisao.c)
-* [1134 - Tipo de Combustível](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/TipoDeCombustivel.c)
-* [1142 - PUM](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/PUM.c)
-* [1143 - Quadrado e ao Cubo](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/QuadradoEAoCubo.c)
-* [1144 - Sequência Lógica](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaLogica.c)
-* [1145 - Sequência Lógica 2](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/SequenciaLogica2.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
-<!--* [DDD](URI/1%20-%20Iniciante/) => [Código](URI/1%20-%20Iniciante/codigo.c)
--->
+[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/INICIANTE.md)
 
 ### URI - Categoria Ad-hoc
 
