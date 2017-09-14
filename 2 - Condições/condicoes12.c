@@ -16,7 +16,7 @@ int main() {
   printf("Digite o numero de dedos do segundo jogador: \n");
   scanf("%d", &mao2);
 
-  if ((mao1 + mao2) % 2 == 1) {
+  if ((mao1 + mao2) & 1) {
     printf("Vencedor: %s\n", nome1);
   }
   else {

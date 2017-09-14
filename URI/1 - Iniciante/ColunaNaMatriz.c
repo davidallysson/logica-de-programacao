@@ -2,10 +2,10 @@
 
 int main() {
   char op;
-  int linha, i, j;
+  int coluna, i, j;
   double soma = 0, media = 0;
   double matriz[12][12];
-  scanf("%d ", &linha);
+  scanf("%d ", &coluna);
   scanf("%c", &op);
 
   for (i = 0; i < 12; i++)
@@ -13,7 +13,7 @@ int main() {
       scanf("%lf", &matriz[i][j] );
 
   for (j = 0; j < 12; j++) {
-    soma += matriz[linha][j];
+    soma += matriz[j][coluna];
   }
 
   if ( op == 'S' ) {
