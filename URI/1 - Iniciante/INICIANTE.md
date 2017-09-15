@@ -111,8 +111,8 @@
 * [1435 - Matriz Quadrada I](1435%20-%20Matriz%20Quadrada%20I.pdf) => [Código](MatrizQuadrada.c)
 * [1478 - Matriz Quadrada II](1478%20-%20Matriz%20Quadrada%20II.pdf) => [Código](MatrizQuadrada2.c)
 * [1534 - Matriz 123](1534%20-%20Matriz%20123.pdf) => [Código](Matriz123.c)
-<!--* [DDD]() => [Código](codigo.c)
-<!--* [DDD]() => [Código](codigo.c)
+* [1541 - Construindo Casas](1541%20-%20Construindo%20Casas.pdf) => [Código](ConstruindoCasas.c) :warning:
+* [1557 - Matriz Quadrada III](1557%20-%20Matriz%20Quadrada%20III.pdf) => [Código](MatrizQuadrada3.c)
 <!--* [DDD]() => [Código](codigo.c)
 <!--* [DDD]() => [Código](codigo.c)
 <!--* [DDD]() => [Código](codigo.c)
