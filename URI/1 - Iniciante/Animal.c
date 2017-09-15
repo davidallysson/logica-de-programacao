@@ -6,41 +6,13 @@ int main() {
   scanf("%s", &subfilo);
   scanf("%s", &classe);
   scanf("%s", &ordem);
-  if (strcmp(subfilo, "vertebrado") == 0) {
-    if (strcmp(classe, "ave") == 0) {
-
-      if (strcmp(ordem, "carnivoro") == 0) {
-        printf("aguia\n");
-      } else if (strcmp(ordem, "onivoro") == 0) {
-        printf("pomba\n");
-      }
-    }
-    else if (strcmp(classe, "mamifero") == 0) {
-
-      if (strcmp(ordem, "onivoro") == 0) {
-        printf("homem\n");
-      } else if (strcmp(ordem, "herbivoro") == 0) {
-        printf("vaca\n");
-      }
-    }
-  }
-  else if (strcmp(subfilo, "invertebrado") == 0) {
-    if (strcmp(classe, "inseto") == 0) {
-
-      if (strcmp(ordem, "hematogafo") == 0) {
-        printf("pulga\n");
-      } else if (strcmp(ordem, "herbivoro") == 0) {
-        printf("lagarta\n");
-      }
-    }
-    else if (strcmp(classe, "anelideo") == 0) {
-
-      if (strcmp(ordem, "hematogafo") == 0) {
-        printf("sanguessuga\n");
-      } else if (strcmp(ordem, "onivoro") == 0) {
-        printf("minhoca\n");
-      }
-    }
-  }
+  if (subfilo[0] == 'v' && classe[0] == 'a' && ordem[0] == 'c') printf("aguia\n");
+  if (subfilo[0] == 'v' && classe[0] == 'a' && ordem[0] == 'o') printf("pomba\n");
+  if (subfilo[0] == 'v' && classe[0] == 'm' && ordem[0] == 'o') printf("homem\n");
+  if (subfilo[0] == 'v' && classe[0] == 'm' && ordem[0] == 'h') printf("vaca\n");
+  if (subfilo[0] == 'i' && classe[0] == 'i' && ordem[2] == 'm') printf("pulga\n");
+  if (subfilo[0] == 'i' && classe[0] == 'i' && ordem[2] == 'r') printf("lagarta\n");
+  if (subfilo[0] == 'i' && classe[0] == 'a' && ordem[0] == 'h') printf("sanguessuga\n");
+  if (subfilo[0] == 'i' && classe[0] == 'a' && ordem[0] == 'o') printf("minhoca\n");
   return 0;
 }

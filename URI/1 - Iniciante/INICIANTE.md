@@ -34,7 +34,7 @@
 * [1046 - Tempo de Jogo](1046%20-%20Tempo%20de%20Jogo.pdf) => [Código](TempoDeJogo.c)
 * [1047 - Tempo de Jogo com Minutos](1047%20-%20Tempo%20de%20Jogo%20com%20Minutos.pdf) => [Código](TempoDeJogoComMinutos.c)
 * [1048 - Aumento de Salário](1048%20-%20Aumento%20de%20Salário.pdf) => [Código](AumentoDeSalario.c)
-* [1049 - Animal](1049%20-%20Animal.pdf) => [Código](Animal.c) :warning:
+* [1049 - Animal](1049%20-%20Animal.pdf) => [Código](Animal.c)
 * [1050 - DDD](1050%20-%20DDD.pdf) => [Código](DDD.c)
 * [1051 - Imposto de Renda](1051%20-%20Imposto%20de%20Renda.pdf) => [Código](ImpostoDeRenda.c)
 * [1052 - Mês](1052%20-%20Mês.pdf) => [Código](Mes.c)
