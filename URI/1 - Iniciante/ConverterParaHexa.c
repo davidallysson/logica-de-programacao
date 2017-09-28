@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 char intToHex(int x) {
-  switch (soma) {
+  switch (x) {
     case 0: return '0';
     case 1: return '1';
     case 2: return '2';
@@ -25,22 +25,17 @@ char intToHex(int x) {
 }
 
 int main() {
-  int n, i, j, k = 0, soma;
-  char hexa[30];
+  char hexa[20];
+  int n, j, i = 0;
   scanf("%d", &n);
-
-  if (n < 16) {
-    hexa[0] = intToHex(n);
-  }
-  else {
-    while (n >= 16) {
-
-    }
+  while (n != 0) {
+    hexa[i++] = intToHex(n % 16);
+    n = n / 16;
   }
 
-  for (i = strlen(hexa) - 1; i >= 0; i--) {
-    printf("%c", hexa[i]);
-  }
+  for (j = i - 1; j >= 0; j--)
+    printf("%c", hexa[j]);
+
   printf("\n");
   return 0;
 }

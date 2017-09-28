@@ -132,7 +132,7 @@
 * [1929 - Triângulo](1929%20-%20Triângulo.pdf) => [Código](Triangulo2.c)
 * [1930 - Tomadas](1930%20-%20Tomadas.pdf) => [Código](Tomadas.c)
 * [1933 - Tri-du](1933%20-%20Tri-du.pdf) => [Código](Tridu.c)
-* [1957 - Converter para Hexadecimal](1957%20-%20Converter%20para%20Hexadecimal.pdf) => [Código](ConverterParaHexa.c) :warning:
+* [1957 - Converter para Hexadecimal](1957%20-%20Converter%20para%20Hexadecimal.pdf) => [Código](ConverterParaHexa.c)
 <!-- * [DDD](DDD.pdf) => [Código](codigo.c) -->
 <!-- * [DDD](DDD.pdf) => [Código](codigo.c) -->
 <!-- * [DDD](DDD.pdf) => [Código](codigo.c) -->
