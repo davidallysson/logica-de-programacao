@@ -228,6 +228,6 @@
 * [2653 - Dijkstra](2653%20-%20Dijkstra.pdf) => [Dijkstra](Dijkstra.c) :warning:
 <!-- * [DDD](DDD.pdf) => [Código](codigo.c) -->
 * [2670 - Máquina de Café](2670%20-%20Máquina%20de%20Café.pdf) => [Código](MaquinaDeCafe.c)
-* [2674 - Super Primos_ Ativar!](2674%20-%20Super%20Primos_ Ativar!.pdf) => [Código](SuperPrimos.c) :warning:
+* [2674 - Super Primos_ Ativar!](2674%20-%20Super%20Primos_Ativar!.pdf) => [Código](SuperPrimos.c) :warning:
 * [2679 - Sucessor Par](2679%20-%20Sucessor%20Par.pdf) => [Código](SucessorPar.c)
 * [2682 - Detector de Falhas](2682%20-%20Detector%20de%20Falhas.pdf) => [Código](DetectorDeFalhas.c)
