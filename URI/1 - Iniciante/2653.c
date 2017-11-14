@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  int i = 0, qJoia = 0;
+  int i = 0;
   char *joia[20];
   while (scanf("%s", &joia[i]) != EOF) {
     i++;

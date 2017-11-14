@@ -465,7 +465,7 @@ Os problemas a seguir são retirados dos seguintes sites:
 
 ### URI - Categoria Iniciante
 
-_[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/INICIANTE.md)_
+_[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/0%20-%20INICIANTE.md)_
 
 ### URI - Categoria Ad-hoc
 
