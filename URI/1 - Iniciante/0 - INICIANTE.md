@@ -145,7 +145,7 @@
 * [1985 - MacPRONALTS](1985%20-%20MacPRONALTS.pdf) => [C](1985.c)
 * [2003 - Domingo de Manhã](2003%20-%20Domingo%20de%20Manhã.pdf) => [C](2003.c)
 * [2006 - Identificando o Chá](2006%20-%20Identificando%20o%20Chá.pdf) => [C](2006.c)
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
+* [2028 - Sequência de Sequência](2028%20-%20Sequência%20de%20Sequência.pdf) => [C](2028.c)
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
 * [2031 - Pedra, Papel, Ataque Aéreo](2031%20-%20Pedra,%20Papel,%20Ataque%20Aéreo.pdf) => [C](2031.c)
 * [2057 - Fuso Horário](2057%20-%20Fuso%20Horário.pdf) => [C](2057.c)
