@@ -139,7 +139,7 @@
 * [1961 - Pula Sapo](1961%20-%20Pula%20Sapo.pdf) => [C](1961.c)
 * [1962 - Há Muito, Muito Tempo Atrás](1962%20-%20Há%20Muito,%20Muito%20Tempo%20Atrás.pdf) => [C](1962.c)
 * [1963 - O Filme](1963%20-%20O%20Filme.pdf) => [C](1963.c)
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
+* [1973 - Jornada nas Estrelas](1973%20-%20Jornada%20nas%20Estrelas.pdf) => [C](1973.c)
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
 * [1985 - MacPRONALTS](1985%20-%20MacPRONALTS.pdf) => [C](1985.c)
