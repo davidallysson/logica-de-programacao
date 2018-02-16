@@ -133,7 +133,7 @@
 * [1930 - Tomadas](1930%20-%20Tomadas.pdf) => [C](1930.c)
 * [1933 - Tri-du](1933%20-%20Tri-du.pdf) => [C](1933.c)
 * [1957 - Converter para Hexadecimal](1957%20-%20Converter%20para%20Hexadecimal.pdf) => [C](1957.c)
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
+* [1958 - Notação Científica](1958%20-%20Notação%20Científica.pdf) => [C](1958.c) :warning:
 * [1959 - Polígonos Regulares Simples](1959%20-%20Polígonos%20Regulares%20Simples.pdf) => [C](1959.c)
 * [1960 - Numeração Romana para Números de Página](1960%20-%20Numeração%20Romana%20para%20Números%20de%20Página.pdf) => [C](1960.c)
 * [1961 - Pula Sapo](1961%20-%20Pula%20Sapo.pdf) => [C](1961.c)
