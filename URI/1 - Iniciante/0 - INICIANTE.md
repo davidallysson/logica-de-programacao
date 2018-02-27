@@ -150,9 +150,9 @@
 * [2031 - Pedra, Papel, Ataque Aéreo](2031%20-%20Pedra,%20Papel,%20Ataque%20Aéreo.pdf) => [C](2031.c)
 * [2057 - Fuso Horário](2057%20-%20Fuso%20Horário.pdf) => [C](2057.c)
 * [2059 - Ímpar, Par ou Roubo](2059%20-%20Ímpar,%20Par%20ou%20Roubo.pdf) => [C](2059.c)
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
-<!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
+* [2060 - Desafio de Bino](2060%20-%20Desafio%20de%20Bino.pdf) => [C](2060.c)
+* [2061 - As Abas de Péricles](2061%20-%20As%20Abas%20de%20Péricles.pdf) => [C](2061.c)
+* [2126 - Procurando Subsequências](2126%20-%20Procurando%20Subsequências.pdf) => [C](2126.c)
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
 <!-- * [DDD](DDD.pdf) => [C](codigo.c) -->
